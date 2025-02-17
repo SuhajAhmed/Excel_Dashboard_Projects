@@ -29,6 +29,3 @@ This project analyzes a dataset of bike buyers to identify purchasing patterns b
 2. Open it in Microsoft Excel 2016 or later.
 3. Navigate through different sheets for raw data, pivot tables, and dashboard insights.
 
-## 📌 Future Improvements
-- Automate data refresh with Power Query
-- Use Power BI for more advanced interactive visualizations
